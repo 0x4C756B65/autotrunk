@@ -3,7 +3,7 @@
 // @version      0.1
 // @description  Automate CryptoTrunks generation to find specified property
 // @author       Luke
-// @match        https://cryptotrunks.co/generate-in-progress
+// @match        https://cryptotrunks.co/reforest-in-progress*
 // ==/UserScript==
 
 var PROPERTY1 = "Sapling";
