@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         CryptoTrunks
-// @version      0.1
+// @version      0.2
 // @description  Automate CryptoTrunks generation to find specified property
 // @author       Luke
 // @match        https://cryptotrunks.co/reforest-in-progress*
