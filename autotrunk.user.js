@@ -22,7 +22,7 @@ if(hasProperty && hasProperty2 && hasProperty3){
     alert("CryptoTrunk Property Found");
 }else{
     console.log("Property Not Found");
-    document.location.reload();
+    document.location.href = "https://cryptotrunks.co/reforest-in-progress";
 }
 
 }, 15000);
